@@ -1,0 +1,20 @@
+Node  :  4  7  8 10 11 12
+Left  :  0  4  0  7  0 11
+Right :  0  8  0 12  0  0
+
+Node  :  4  5  9
+Left  :  0  0  4
+Right :  5  0  0
+
+Node  :  3 11 19 55
+Left  :  0  3 11  0
+Right :  0  0 55  0
+
+Node  :  3  9 11 19 55
+Left  :  0  3  0 11  0
+Right :  0 19  0 55  0
+
+Node  :  3 11 55
+Left  :  0  3 11
+Right :  0  0  0
+

@@ -1,0 +1,20 @@
+> ./huffman -c -i test_2.txt -o test_2.txt.huf
+Encode Table : 
+65 = 000
+66 = 1000
+67 = 010
+68 = 1010
+69 = 011
+70 = 1001
+71 = 110
+72 = 1011
+73 = 001
+74 = 111
+
+Compression Ratio : 41.992%
+Compressed Size   : 215
+Uncompressed Size : 512
+
+> ./huffman -u -i test_2.txt.huf -o test_2.txt
+Compressed Size   : 215
+Uncompressed Size : 512
